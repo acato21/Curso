@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+body{
+    text-align: center;
+}
+
+hr{
+    margin: .4rem;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+p{
+    
+}
+
+.img{
+    display: flex;
+    gap: 1px;
+}
+
+img{
+    width: 45%;
+    height: 500px;
+    margin: auto;
+}
